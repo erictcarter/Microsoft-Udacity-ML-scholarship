@@ -1,0 +1,41 @@
+What does a machine learning engineer do?
+In practical terms, the job of a machine learning engineer is close to that of a data scientist. Both roles work with vast quantities of information, require exceptional data management skills and the ability to perform complex modeling on dynamic data sets.
+
+But here the similarity ends. Data professionals produce insights, usually in the form of charts or reports that are presented to a human audience. Machine learning engineers, on the other hand, design self-running software to automate predictive models. Each time the software performs an operation, it uses those results to carry out future operations with a greater degree of accuracy. This is how the software, or machine, “learns.”
+
+A well-known example of ML is the recommendation algorithm of Netflix, Amazon and other consumer-facing services. Each time a user watches a video or searches for a product, these sites add more data points to its algorithm. As the amount of data grows, the algorithm’s recommendations to the user for other content become more accurate — all without any kind of human intervention.
+
+ML is closely related to AI, and ML encompasses deep learning (DL). This subfield uses artificial neural networks to “think” and solve complex problems with multi-layered (deep) data sets. Some commons examples of DL include virtual assistants, translation apps, chatbots and driverless cars. Over time, these technologies will become even more accurate and practical.
+
+Why machine learning engineers are in demand
+Businesses today are awash in data, from customer interactions to IoT networks. Attempting to process all that information manually is like drinking from a fire hose. Machine learning has become essential for taking full advantage of a company’s data. 
+
+Applications of ML are as varied as the data itself. A few common applications include:
+
+Image and speech recognition — Machine learning excels at auto-tagging images, text-to-speech conversions and anything else that requires turning unstructured data into useful information.
+Customer insight — Association rule learning, the way ML software makes connections, drives the algorithms at the heart of e-commerce, telling consumers who buy product A that they might like product X.
+Risk management and fraud prevention — ML algorithms can analyze huge volumes of historical data to make financial predictions, from future investment performance to the risk of loan defaults. Regression testing also makes it easier to spot fraudulent transactions in real time.
+What to expect in a machine learning engineer job description
+Because ML is an emerging role, not many IT specialists have direct experience with it. That’s why most machine learning engineer job descriptions today seek out data scientists with a programming background.
+
+The reverse can also be true: Coders and programmers with solid data skills can transition to become machine learning engineers, though they may need experience in a data role beforehand.
+
+A job description for machine learning engineers typically includes the following:
+
+Advanced degree in computer science, math, statistics or a related discipline
+Extensive data modeling and data architecture skills
+Programming experience in Python, R or Java
+Background in machine learning frameworks such as TensorFlow or Keras
+Knowledge of Hadoop or another distributed computing systems
+Experience working in an Agile environment
+Advanced math skills (linear algebra, Bayesian statistics, group theory)
+Strong written and verbal communications
+Machine learning engineer salary
+As a fairly new job title, there aren’t enough data points to give a definitive range for machine learning engineer salaries. However, as this role lies between data science and software engineering, your could use information from the Robert Half Technology 2020 Salary Guide to make a fairly accurate estimate of how much employers are likely to offer potential new hires. Here are some starting salary midpoints (national median salary) for related positions:
+
+Big data engineer: $163,250
+Data architect: $141,250
+Data scientist: $125,250
+Data modeler: $101,750
+Developer/programmer analyst: $108,500
+Software engineer: $125,750
